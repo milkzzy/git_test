@@ -1,1 +1,1 @@
-This is milkzzy's frist git project!
+This is milkzzy's first git project!
